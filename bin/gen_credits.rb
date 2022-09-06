@@ -1,4 +1,4 @@
-#!/System/Library/Frameworks/Ruby.framework/Versions/Current/usr/bin/ruby
+#!/usr/bin/env ruby
 # == Synopsis
 #
 # Module to assist in building the Contributors page using git commit history.
